@@ -5,7 +5,7 @@
    #header, #footer {
 			font-size: 40px;;
 			padding: 0.3em;
-			background: #ecc514;
+			background: #9F675B;
 		}
    
    
@@ -17,7 +17,7 @@
   
 <body>
 	
-<header id="header"><p>Formation Exam 701: DevOps Tools Engineer | LPI...</p></header>
+<header id="header"><p>Formation Exam 701 LPILPILPI: DevOps Tools Engineer | LPI...</p></header>
 	</br></br>
 
   <center> 
